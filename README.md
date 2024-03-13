@@ -1,6 +1,6 @@
 ### Anova's Github. Welcome!
 
-I'm a Computer Science & Business student, focused on building creative tools to help others. In particular, I'm interested in how best to convey knowledge and using code to create art that resonates.
+I'm a Computer Science & Business student, focused on building creative tools to help others. In particular, I'm interested in creative computing, HCI, AI, ML, open source knowledge, and using tech to create art that resonates with diverse audiences.
 
 - 👾 My past experiences include:
 
