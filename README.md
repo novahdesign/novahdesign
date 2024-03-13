@@ -1,6 +1,5 @@
 ### Anova's Github. Welcome!
 
-Tools, languages, and frameworks: Java, JavaScript, Python, C, C++, Typescript, HTML, CSS, R
 
 - 👾 My past experiences include:
 
@@ -18,6 +17,7 @@ Creative Director & Web Developer @ GadflyAI, creating visual brand and overall 
 - 📫 How to reach me: anova[dot]hou[at]gmail[dot]com
 - ⚡ Fun fact: I want to build a library.
 
+Tools, languages, and frameworks: Java, JavaScript, Python, C, C++, Typescript, HTML, CSS, R, Processing, p5js, Figma, Webflow, Adobe Suite, Git
 
 <!--
 **novahdesign/novahdesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
