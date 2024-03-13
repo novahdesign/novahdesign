@@ -8,7 +8,7 @@ I'm a Computer Science & Business student, focused on building creative tools to
 
   - Web Design & Web Development Co-op @ SaaS company, using HTML, CSS, JS, Angular, and APIs to develop our customer-facing website. I learned a lot about software companies and web development.
 
-  - Creative Director & Web Developer @ GadflyAI, creating visual brand and overall aesthetic of AI/ML technical collective, and designing & implementing technical communication. 
+  - Creative Director & Web Developer @ GadflyAI, creating visual brand and overall aesthetic of AI/ML technical collective, and designing & implementing using p5js, JS, HTML, CSS, and Cargo. I worked with incredible engineers to communicate very technical projects to a more general audience. 
 
 - 🔭 I’m currently working on: a worldwide zine on creative computing and generative art, with a focus on open source, AI, and cybersecurity. 
 - 🌱 I’m currently studying: a Combined Major in Computer Science and Business at the wonderful University of British Columbia.
